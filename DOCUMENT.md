@@ -1,5 +1,5 @@
+---
 # Practica Git/Github
-
 ---
 
 ###     1. Creo un directori de treball anomenat /DiariVostreNom/ en el directori de l'usuari. 
