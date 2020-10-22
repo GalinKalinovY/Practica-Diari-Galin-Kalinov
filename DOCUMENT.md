@@ -307,4 +307,4 @@ git push [nom-remot][nomeni-branca] ( és possible que tingueu que pujar mes d'u
 
 ### 40. Afegir fitxer DOCUMENT.MD amb tota la pràctica, captura de pantalla, explicacions etc…També en Markdown. ( en github). Podeu triar entre elaborar-lo en local i pujar-ho a github ( ex: drag and drop) o treballar directament en l'editor de Github.
 
-![]()
+![](https://user-images.githubusercontent.com/71660913/96883879-293afb00-1481-11eb-8bbf-6f300d854277.png)
