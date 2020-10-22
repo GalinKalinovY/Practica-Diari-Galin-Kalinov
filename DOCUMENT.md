@@ -262,7 +262,7 @@ git push [nom-remot][nomeni-branca] ( és possible que tingueu que pujar mes d'u
 
 ---
 
-# h1 A GITHUB.COM:
+# A GITHUB.COM:
 
 ### 28. Crear una branca “bugfix” a partir de la “master” per resoldre una sèrie de modificacions.
 
@@ -304,3 +304,7 @@ git push [nom-remot][nomeni-branca] ( és possible que tingueu que pujar mes d'u
 
 ![](https://i.imgur.com/oTYHaRP.png)
 
+
+### 40. Afegir fitxer DOCUMENT.MD amb tota la pràctica, captura de pantalla, explicacions etc…També en Markdown. ( en github). Podeu triar entre elaborar-lo en local i pujar-ho a github ( ex: drag and drop) o treballar directament en l'editor de Github.
+
+![]()
